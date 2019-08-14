@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Svitla_IBoughtIt</name>
+    <version>0.3.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">Open Software License (OSL)</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Svitla_IBoughtIt 0.3.0v</summary>
+    <description>Svitla_IBoughtIt 0.3.0v release</description>
+    <notes>Svitla_IBoughtIt 0.3.0v</notes>
+    <authors><author><name>Svitla</name><user>okhokhliuk</user><email>okhokhliuk@svitla.com</email></author></authors>
+    <date>2014-11-24</date>
+    <time>18:24:42</time>
+    <contents><target name="magecommunity"><dir name="Svitla"><dir name="Iboughtit"><dir name="Block"><dir name="Checkout"><file name="Success.php" hash="444c9591497f41a5802562d01f40e3e0"/></dir><file name="Checkout.php" hash="c6889bad6afc29ade0474e8523a41e1d"/><file name="Index.php" hash="7e036a313979765aa73726ad9c422ffb"/><dir name="Server"><dir name="General"><file name="Connect.php" hash="2f73f49a3dd6a371405d9adfc2aa4584"/></dir></dir><file name="Server.php" hash="9c4e7043d559062f67bc0d5a4d04287b"/><file name="Share.php" hash="178af198c8c995f115ae37d46217b582"/></dir><dir name="Helper"><file name="Data.php" hash="680a9a30b2c22b890828e87d4ff5a194"/></dir><dir name="Model"><file name="Observer.php" hash="9fad0a27446d6f4e6894a1314d9b2cba"/></dir><dir name="controllers"><file name="IndexController.php" hash="f1bad6336cc1788e7a981eedac7e152a"/><file name="ServerController.php" hash="f6dd9632103b197ac2db00ed68517c5b"/></dir><dir name="etc"><file name="adminhtml.xml" hash="97bdeec3aa0ebf94004bfa4e8417f616"/><file name="config.xml" hash="91499a4e78c0a79344bd042a25e91baa"/><file name="system.xml" hash="58bc25246e950092b1ac26cb5225b76b"/></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="layout"><dir name="svitla"><file name="iboughtit.xml" hash="c21ad299c7542119a8beb2663b10f8c8"/></dir></dir><dir name="template"><dir name="svitla"><dir name="iboughtit"><file name="index.phtml" hash="324d23a15e9c417528314b3d16079f0c"/><file name="json.phtml" hash="368b989552c9318fae7e127e085fbae4"/><file name="sharepage.phtml" hash="529b5006d657e99237bd5f6420a6c1af"/><file name="success.phtml" hash="6b70c4945c68746e10c43a87171bac9a"/></dir></dir></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Svitla_Iboughtit.xml" hash="5d0b4454e61b56b4c1bbe423b7816ffb"/></dir></target><target name="magelocale"><dir name="en_US"><dir name="template"><dir name="email"><dir name="sales"><file name="coupon_new.html" hash="1c3352335b2a8adb18dc6e8055998589"/></dir></dir></dir></dir></target><target name="mageskin"><dir name="frontend"><dir name="base"><dir name="default"><dir name="css"><file name="iboughtit.css" hash="e2b676f507a0343119f518d8e71290fe"/></dir><dir name="images"><dir name="iboughtit"><file name="shopping.jpg" hash="8c912426a0876f61c777125428860469"/></dir></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
