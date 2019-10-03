@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Svitla_IBoughtIt",
+    "name": "openmage-module-fostering\/svitla_iboughtit",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Svitla_IBoughtIt 0.3.0v",
     "authors": [
